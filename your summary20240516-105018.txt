@@ -1,0 +1,6 @@
+Data Flow Diagram (DFD) is a graphical representation of data flow in any system.
+WEBA data flow diagram (DFD) is a visual map that shows how data moves through a system or a process.
+The flow of data of a system or a process is represented by DFD.
+WEBApr 12, 2024 · A Data Flow Diagram (DFD) is defined as a graphical representation of the flow of data within a system.
+WEBJul 13, 2022 · Data Flow Diagram (DFD) of a system represents how input data is converted to output data graphically.
+Data flow diagram describes anything about how data flows through the system.
